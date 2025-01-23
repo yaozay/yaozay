@@ -40,3 +40,8 @@ I'm Yahya Ozay, a Computer Science major passionate about creating innovative so
     <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
+### 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaozay&layout=compact&theme=radical)
+
