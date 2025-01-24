@@ -47,8 +47,8 @@ I'm Yahya Ozay, a Computer Science major passionate about creating innovative so
 
 
 ## 🚀 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaozay&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yaozay&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ## 💡 Fun Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
