@@ -45,3 +45,16 @@ I'm Yahya Ozay, a Computer Science major passionate about creating innovative so
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaozay&layout=compact&theme=radical)
 
+
+## 🚀 My GitHub Stats
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 💡 Fun Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
