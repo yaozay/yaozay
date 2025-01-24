@@ -20,7 +20,6 @@ I'm Yahya Ozay, a Computer Science major passionate about creating innovative so
 ### 🔭 I’m working on
 
 - **Healynx**: Building a health-focused startup to create impactful solutions. 🌐
-- Exploring AI and automation to drive innovation.
 
 ### 🌱 I’m learning
 
