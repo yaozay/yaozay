@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Yahya Ozay, a Computer Science major passionate about creating innovative solutions and building robust applications. 🚀
 
